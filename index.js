@@ -12,3 +12,9 @@ function multiply(a,b){
 function divide(a, b){
   return (a/b)
 }
+function increments(n){
+  return (n++)
+}
+function decrement(n){
+  return (n--)
+}
