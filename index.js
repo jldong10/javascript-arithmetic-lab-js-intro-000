@@ -3,13 +3,12 @@ var b = 1
 function add(a, b){
   return (a+b)
 }
-function subtract(){
-  2-1
+function subtract(a, b){
+  return (b-a)
 }
-function multiply(){
-  2 * 2
+function multiply(a,b){
+  return (a * b)
 }
 function divide(){
-  4/1
+  return (a/b)
 }
-1+1
