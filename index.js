@@ -10,3 +10,4 @@ function multiply(){
 function divide(){
   4/1
 }
+1+1
