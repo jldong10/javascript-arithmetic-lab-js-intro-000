@@ -1,7 +1,7 @@
+var A = 10
+var B = 1
 function add(){
-  var a = 1
-  var b = 2
-  a+b
+  A+B
 }
 function subtract(){
   2-1
