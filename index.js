@@ -1,9 +1,8 @@
 var a = 10
 var b = 1
-function add(){
+function add(a, b){
   sum = a + b
 }
-consol.log(sum)
 function subtract(){
   2-1
 }
