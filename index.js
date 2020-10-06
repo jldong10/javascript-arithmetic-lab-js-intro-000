@@ -1,6 +1,6 @@
-var A = 10
-var B = 1
-function add(){
+var a = 10
+var b = 1
+function add(a, b){
 }
 function subtract(){
   2-1
